@@ -7,4 +7,4 @@ I created this app August 2020 for my CS 3260 IOS mobile development class. The 
 
 ## Authors
 
-* **Jacob Gonzales** - *Initial work*
+* **Jacob Gonzales** - *Created by*
