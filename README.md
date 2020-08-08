@@ -3,7 +3,7 @@ I created this app August 2020 for my CS 3260 IOS mobile development class. The 
 
 ## Built With 
 
-* [Xcode](hhttps://developer.apple.com/xcode/) - The web framework used
+* [Xcode](hhttps://developer.apple.com/xcode/)
 
 ## Authors
 
